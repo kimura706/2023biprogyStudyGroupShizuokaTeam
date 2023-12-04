@@ -1,0 +1,21 @@
+{
+  "files": [],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "types": ["vuetify", "node"],
+    "ignoreDeprecations": "5.0",
+    "jsx": "preserve",
+    "esModuleInterop": true,
+  },
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ]
+}

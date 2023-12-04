@@ -1,0 +1,15 @@
+{
+  // "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+  "appService.zipIgnorePattern": [".env"],
+  // "appService.defaultWebAppToDeploy": "None",
+  "appService.showBuildDuringDeployPrompt": false,
+  "cSpell.words": [
+    "mypage",
+    "progresslist",
+    "recordset",
+    "recordsets",
+    "updateprogress",
+    "userselect",
+    "Vuetify"
+  ]
+}

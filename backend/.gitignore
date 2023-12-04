@@ -1,0 +1,6 @@
+.env
+archive.zip
+node_modules/
+logs/*.log
+public/dist/
+eslint_result.html
